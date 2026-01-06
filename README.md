@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Maria Carolina 👋
 
-<!--
-**maria-data-science/maria-data-science** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analytics & Marketing  
+🐍 Python | SQL | Power BI  
+📈 Learning and growing towards Data Science
 
-Here are some ideas to get you started:
+### About me
+- Interested in data-driven decision making
+- Experience with marketing metrics and analysis
+- Currently strengthening my skills in Python, SQL and data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you’ll find here
+- Data analysis projects
+- Marketing analytics cases
+- Practice notebooks and learning projects
+
+✨ Always learning, always improving.
